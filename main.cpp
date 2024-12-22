@@ -3,6 +3,12 @@
 #include "check.cpp"
 #include "sentense_filter.h"
 
+
+
+
+
+
+
 void display_menu() {
     cout << "\n===== Меню управления поездами =====" << endl;
     cout << "1. Добавить цену" << endl;
